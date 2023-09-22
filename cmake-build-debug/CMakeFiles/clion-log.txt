@@ -1,0 +1,5 @@
+"D:\Program Files\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\ethan\CLionProjects\Minesweeper -B C:\Users\ethan\CLionProjects\Minesweeper\cmake-build-debug
+-- Found SFML 2.5.1 in C:/Users/ethan/Downloads/SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ethan/CLionProjects/Minesweeper/cmake-build-debug
